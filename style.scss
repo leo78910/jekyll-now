@@ -36,7 +36,10 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  style="background-color:LightGray";
+	
+	 padding: 15px;
+    background: lightblue;
+    background-clip: content-box;
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
