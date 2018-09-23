@@ -18,9 +18,7 @@ html {
 }
 
 body {
-	 padding: 15px;
-    background: lightblue;
-    background-clip: border-box; 
+	 
 	background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_3DS_Terraria_image1600w.jpg");
  	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -260,7 +258,10 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    
+	   background: lightblue;
+    background-clip: border-box; 
+	  margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
