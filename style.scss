@@ -36,7 +36,9 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  background: lightblue;
+  background-clip: border-box; 
+	font-family: $helveticaNeue;
   color: Black;
   font-weight: bold;
 
