@@ -25,7 +25,7 @@ body {
  	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font: 18px/1.4 $helvetica;
-  #color: $LightGray;
+        color: LightGray;
 	
 }
 
@@ -39,7 +39,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $LightGray;
+  color: LightGray;
   font-weight: bold;
 
   line-height: 1.7;
