@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-color:LightGray;
+	
 	background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_3DS_Terraria_image1600w.jpg");
  	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -34,7 +34,9 @@ body {
   width: 100%;
 }
 
-
+<p style="background-color:
+LightGray;">
+</p>
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
