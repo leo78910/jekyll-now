@@ -34,10 +34,9 @@ body {
   width: 100%;
 }
 
-<p style="background-color:
-LightGray;">
-</p>
+
 h1, h2, h3, h4, h5, h6 {
+  style="background-color:LightGray"
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
