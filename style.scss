@@ -14,6 +14,8 @@
 /**************/
 
 html {
+	border: 2px solid LightBlue;
+	opacity: 0.1;
   font-size: 100%;
 	 background: lightblue;
   background-clip: border-box; 
@@ -30,6 +32,7 @@ body {
 }
 
 .container {
+	opacity: 0.1;
 	 border: 2px solid LightBlue;
 	background: lightblue;
   background-clip: border-box;
