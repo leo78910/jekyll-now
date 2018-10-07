@@ -35,13 +35,8 @@ body {
 .container {
 	border-radius: 25px;
 	opacity: 0.1;
-	 border: 2px solid LightBlue;
 	background: lightblue;
-  background-clip: border-box;
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  background-clip: border-box;   
 }
 
 table, th, td {
@@ -64,8 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	 background: lightblue;
-    background-clip: border-box; 
+	
   font-size: 30px;
   a {
     color: inherit;
@@ -73,20 +67,17 @@ h1 {
 }
 
 h2 {
-	 background: lightblue;
-    background-clip: border-box; 
+	 
   font-size: 24px;
 }
 
 h3 {
-	 background: lightblue;
-    background-clip: border-box; 
+	
   font-size: 20px;
 }
 
 h4 {
-	 background: lightblue;
-    background-clip: border-box; 
+	 
   font-size: 18px;
   color: $gray;
 }
@@ -281,8 +272,7 @@ nav {
 .post {
   blockquote {
     
-	   background: lightblue;
-    background-clip: border-box; 
+	   
 	  margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
