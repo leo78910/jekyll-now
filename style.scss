@@ -14,8 +14,7 @@
 /**************/
 
 html {
-	border-radius: 25px;
-	border: 2px solid LightBlue;
+	
 	opacity: 0.1;
   font-size: 100%;
 	 background: lightblue;
@@ -33,10 +32,8 @@ body {
 }
 
 .container {
-	border-radius: 25px;
-	opacity: 0.1;
-	background: lightblue;
-  background-clip: border-box;   
+  background-clip: border-box;
+	
 }
 
 table, th, td {
