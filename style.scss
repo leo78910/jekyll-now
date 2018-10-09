@@ -17,8 +17,7 @@ html {
 	
 	opacity: 0.1;
   font-size: 100%;
-	 background: lightblue;
-  background-clip: border-box; 
+	 
 }
 
 body {
@@ -56,7 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	
+	background: lightblue;
+  background-clip: border-box; 
   font-size: 30px;
   a {
     color: inherit;
@@ -64,17 +64,20 @@ h1 {
 }
 
 h2 {
-	 
+	 background: lightblue;
+  background-clip: border-box; 
   font-size: 24px;
 }
 
 h3 {
-	
+	background: lightblue;
+  background-clip: border-box; 
   font-size: 20px;
 }
 
 h4 {
-	 
+	 background: lightblue;
+  background-clip: border-box; 
   font-size: 18px;
   color: $gray;
 }
