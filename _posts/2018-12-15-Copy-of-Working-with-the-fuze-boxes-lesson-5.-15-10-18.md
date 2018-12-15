@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Working with the fuze boxes lesson 7.</td>
     <td>Date</td>
-    <td>22/10/18</td>
+    <td>29/10/18</td>
   </tr>
 </table>
 
