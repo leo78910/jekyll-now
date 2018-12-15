@@ -1,5 +1,5 @@
 ---
-title: Working with the fuze boxes lesson 7. 15 10 18
+title: Working with the fuze boxes lesson 8. 15 10 18
 layout: post
 author: leo.gross
 permalink: /working-with-the-fuze-boxes-lesson-5.-15-10-18/
