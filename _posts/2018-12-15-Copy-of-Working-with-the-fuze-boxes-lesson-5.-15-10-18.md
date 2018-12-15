@@ -2,7 +2,7 @@
 title: Working with the fuze boxes lesson 7. 15 10 18
 layout: post
 author: leo.gross
-permalink: /copy-of-working-with-the-fuze-boxes-lesson-5.-12-11-18/
+permalink: /copy-of-working-with-the-fuze-boxes-lesson-5.-19-11-18/
 source-id: 17Y7aVMI29_R3rD-nCXAx5nI_J-OQ7vtsmxjRqENDDGs
 published: true
 ---
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Working with the fuze boxes lesson 7.</td>
     <td>Date</td>
-    <td>12/11/18</td>
+    <td>19/11/18</td>
   </tr>
 </table>
 
